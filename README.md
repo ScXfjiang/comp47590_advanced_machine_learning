@@ -1,1 +1,1 @@
-# comp47590_advanced_machine_learning
+# comp47590_assignment2
